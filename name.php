@@ -1,4 +1,4 @@
-<form action="name.php" method="POST">
+<form action="name1.php" method="POST">
 	<fieldset>
 		<legend>NAME</legend>
 		<input type="text" name="name"><b>i</b><br/><br/><hr/><br>
